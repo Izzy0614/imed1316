@@ -3,8 +3,8 @@
 
 
 .carousel-caption {
-    background-color: rgba(255, 255, 255, 0.5);
-    color: #000000 !important;
+    background-color: rgba(190, 230, 238, 0.5);
+    color: #11E6EE !important;
   }
   
 
@@ -14,7 +14,7 @@ p {
 
 .blinn-fa-icon {
     font-size: 60px;
-    color: #ffffff;
+    color: #000000;
 }
 
 
@@ -26,7 +26,7 @@ p {
 
 
 .blinn-fa-container a {
-    color: #ffffff !important;
+    color: #000000 !important;
 }
 
 .blinn-fa-container {
