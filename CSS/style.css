@@ -37,6 +37,7 @@ p {
 .paragraph-one {
     position: relative;
     top: 30px;
+    font-family: "Roboto Slab", serif;
 }
 
 .paragraph-one-img {
